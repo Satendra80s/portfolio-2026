@@ -259,6 +259,48 @@ export const portfolioData = {
       description: "Creative brand commercial and promo video tailored for social platforms.",
       thumbnail: "https://i.ytimg.com/vi/zy3eDLkE2us/hqdefault.jpg",
       videoUrl: "https://youtu.be/zy3eDLkE2us"
+    },
+    {
+      id: "video-11",
+      title: "Client Showcase Video 11",
+      category: "Shorts & Reels Video Editing",
+      client: "Client Content",
+      duration: "2 Days",
+      software: ["After Effects", "Premiere Pro", "CapCut Desktop"],
+      challenge: "High-retention vertical short-form editing with dynamic subtitles and visual hooks.",
+      solution: "Engineered kinetic captions, fast-paced audio cuts, and visual popups.",
+      result: "High retention and audience engagement.",
+      description: "Client short video showcase featuring high-energy vertical editing, retention hooks, and motion graphics.",
+      thumbnail: "https://i.ytimg.com/vi/zsGoYM5MWrs/hqdefault.jpg",
+      videoUrl: "https://youtube.com/shorts/zsGoYM5MWrs?feature=share"
+    },
+    {
+      id: "video-12",
+      title: "Client Showcase Video 12",
+      category: "Shorts & Reels Video Editing",
+      client: "Client Content",
+      duration: "2 Days",
+      software: ["After Effects", "Premiere Pro"],
+      challenge: "Captivating audience attention in the first 3 seconds of vertical short video.",
+      solution: "Applied motion graphics overlay, punchy visual transitions, and sound effects.",
+      result: "Lifted audience watch-time and click rates.",
+      description: "Client short video showcase featuring high-converting vertical editing and visual motion effects.",
+      thumbnail: "https://i.ytimg.com/vi/TxRdUFbKy34/hqdefault.jpg",
+      videoUrl: "https://youtube.com/shorts/TxRdUFbKy34"
+    },
+    {
+      id: "video-13",
+      title: "Client Showcase Video 13",
+      category: "Shorts & Reels Video Editing",
+      client: "Client Content",
+      duration: "2 Days",
+      software: ["After Effects", "Premiere Pro", "Photoshop"],
+      challenge: "Designing eye-catching vertical visual storytelling.",
+      solution: "Seamless transitions, kinetic subtitles, and customized color correction.",
+      result: "Top performing client short video.",
+      description: "Client short video showcase featuring custom text animations, kinetic pacing, and audio mastering.",
+      thumbnail: "https://i.ytimg.com/vi/tDrOrorbr6k/hqdefault.jpg",
+      videoUrl: "https://youtube.com/shorts/tDrOrorbr6k?feature=share"
     }
   ],
 
