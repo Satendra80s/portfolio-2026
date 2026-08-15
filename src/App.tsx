@@ -20,7 +20,7 @@ function App() {
 
   // Dynamic Portfolio States loaded from localStorage (falling back to static portfolioData)
   const [projects, setProjects] = useState<Project[]>(() => {
-    const saved = localStorage.getItem("satendra_portfolio_projects");
+    const saved = localStorage.getItem("satendra_portfolio_projects_v2");
     return saved ? JSON.parse(saved) : portfolioData.projects;
   });
 
@@ -43,7 +43,7 @@ function App() {
 
   // Sync state changes with localStorage
   useEffect(() => {
-    localStorage.setItem("satendra_portfolio_projects", JSON.stringify(projects));
+    localStorage.setItem("satendra_portfolio_projects_v2", JSON.stringify(projects));
   }, [projects]);
 
   useEffect(() => {
@@ -119,6 +119,7 @@ function App() {
   // Revert all data back to original state
   const handleResetToFactoryDefaults = () => {
     localStorage.removeItem("satendra_portfolio_projects");
+    localStorage.removeItem("satendra_portfolio_projects_v2");
     localStorage.removeItem("satendra_portfolio_stats");
     localStorage.removeItem("satendra_portfolio_personalInfo");
     
