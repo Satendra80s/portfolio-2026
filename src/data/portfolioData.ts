@@ -261,6 +261,20 @@ export const portfolioData = {
       videoUrl: "https://youtu.be/zy3eDLkE2us"
     },
     {
+      id: "video-10",
+      title: "Client Showcase Video 10",
+      category: "Shorts & Reels Video Editing",
+      client: "Client Content",
+      duration: "2 Days",
+      software: ["After Effects", "Premiere Pro", "CapCut Desktop"],
+      challenge: "Optimizing vertical short video hooks for maximum audience retention.",
+      solution: "Engineered kinetic typography, visual sound design, and color correction.",
+      result: "High retention rate on social feeds.",
+      description: "Client short video showcase featuring high-converting vertical editing, dynamic captions, and visual effects.",
+      thumbnail: "https://i.ytimg.com/vi/r9Jp0AZexDE/hqdefault.jpg",
+      videoUrl: "https://youtube.com/shorts/r9Jp0AZexDE?feature=share"
+    },
+    {
       id: "video-11",
       title: "Client Showcase Video 11",
       category: "Shorts & Reels Video Editing",
