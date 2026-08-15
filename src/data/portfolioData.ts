@@ -137,7 +137,7 @@ export const portfolioData = {
     {
       id: "video-1",
       title: "IPL का सबसे Confusing Match 😱 जीती टीम रोई, हारने वाली हँसी",
-      category: "Cricket Storytelling",
+      category: "Cricket Storytelling & Video Editing",
       client: "Sports Content",
       duration: "1 Week",
       software: ["Premiere Pro", "After Effects", "Photoshop"],
@@ -145,13 +145,13 @@ export const portfolioData = {
       solution: "Engineered dynamic retention hooks, kinetic sound design, and historical match visual tracking.",
       result: "High retention rate with viral audience reach.",
       description: "This is the unbelievable story of Mumbai Indians vs Rajasthan Royals 2014 — one of the craziest and most confusing matches in cricket history.",
-      thumbnail: "https://img.youtube.com/vi/cgJQKY1oKxg/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/cgJQKY1oKxg/hqdefault.jpg",
       videoUrl: "https://youtu.be/cgJQKY1oKxg?si=T316iO6sA1y3B7Ob"
     },
     {
       id: "video-2",
       title: "Pani Puri bechne se lekar Double Century tak | India ka Next Superstar?",
-      category: "Documentary & Storytelling",
+      category: "Documentary Video Editing",
       client: "Cricket Story",
       duration: "1 Week",
       software: ["Premiere Pro", "After Effects", "DaVinci Resolve"],
@@ -159,13 +159,13 @@ export const portfolioData = {
       solution: "Crafted cinematic color grading, emotional sound design, and fast pacing.",
       result: "Massive viral engagement and high watch-time.",
       description: "Yashasvi Jaiswal ki journey kisi movie se kam nahi hai. Mumbai ke Azad Maidan me bina proper ghar, bina light aur kai baar bina khane ke rehne wala ek chhota ladka… aaj Team India aur Rajasthan Royals ka superstar ban chuka hai. Ek time aisa tha jab wo din bhar cricket practice karta tha aur shaam ko pani puri bechkar apna guzara karta tha. Lekin usne apne dreams kabhi nahi chhode.",
-      thumbnail: "https://img.youtube.com/vi/jMpAQLWEGZw/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/jMpAQLWEGZw/hqdefault.jpg",
       videoUrl: "https://youtu.be/jMpAQLWEGZw?si=g2rEUx5wGENi73j8"
     },
     {
       id: "video-3",
       title: "Smriti Mandhana Creates History! Only Indian in TIME's 100 Most Influential Sports List",
-      category: "Shorts & Reels Motion",
+      category: "Shorts & Reels Motion Editing",
       client: "SPORTS MARQ",
       duration: "2 Days",
       software: ["After Effects", "CapCut Desktop", "Photoshop"],
@@ -173,13 +173,13 @@ export const portfolioData = {
       solution: "Used kinetic typography, energetic visual pop-ups, and punchy audio transitions.",
       result: "Viral Short with 90%+ average percentage viewed.",
       description: "Smriti Mandhana ne history rach di hai. TIME Magazine ki pehli-ever 100 Most Influential People in Sports list mein jagah banane wali woh iklauti Indian sportsperson bani hain.",
-      thumbnail: "https://img.youtube.com/vi/rHcvCj3U6Ag/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/rHcvCj3U6Ag/hqdefault.jpg",
       videoUrl: "https://youtube.com/shorts/rHcvCj3U6Ag?si=xQCHd356DvEH9ZcT"
     },
     {
       id: "video-4",
       title: "From Dishwashers to 191 Branches — The Untold Indian Coffee House Empire Story",
-      category: "Podcast & Talk Show",
+      category: "Podcast Video Editing",
       client: "The First Talk",
       duration: "5 Days",
       software: ["Premiere Pro", "After Effects", "Audition"],
@@ -187,13 +187,13 @@ export const portfolioData = {
       solution: "Seamless multi-cam switching, lower-thirds motion graphics, and narrative sound design.",
       result: "Featured episode with high viewer retention.",
       description: "In this inspiring episode of The First Talk, host Dr. Sanjeev Choudhary sits down with Dr. O.K. Rajagopalan, President of the Indian Coffee House Workers Association, who has dedicated more than five decades to building one of India's most iconic and trusted food service institutions.",
-      thumbnail: "https://img.youtube.com/vi/3sDGIdfVMgg/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/3sDGIdfVMgg/hqdefault.jpg",
       videoUrl: "https://youtu.be/3sDGIdfVMgg?si=rnpYSauon-TxpkTu"
     },
     {
       id: "video-5",
       title: "क्या Tiger अपने ही बच्चों को मार देता है? | The First Talk",
-      category: "Shorts & Podcast Clips",
+      category: "Shorts & Podcast Video Editing",
       client: "The First Talk",
       duration: "1 Day",
       software: ["Premiere Pro", "After Effects"],
@@ -201,13 +201,13 @@ export const portfolioData = {
       solution: "Engineered suspenseful visual hooks, bold subtitles, and sound effects.",
       result: "Top performing podcast short.",
       description: "क्या जंगल का सबसे शक्तिशाली शिकारी अपने ही बच्चों के लिए खतरा बन सकता है? Tiger के व्यवहार से जुड़ा यह चौंकाने वाला सच जानिए The First Talk Podcast के इस खास क्लिप में।",
-      thumbnail: "https://img.youtube.com/vi/X6M746nChvk/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/X6M746nChvk/hqdefault.jpg",
       videoUrl: "https://youtube.com/shorts/X6M746nChvk?si=llUtLnVZs5wAFP_D"
     },
     {
       id: "video-6",
       title: "How BJP Accidentally Created Narendra Modi | The Untold Story",
-      category: "Documentary Editing",
+      category: "Documentary Video Editing",
       client: "Political Documentary",
       duration: "1 Week",
       software: ["Premiere Pro", "After Effects", "Photoshop", "DaVinci Resolve"],
@@ -215,13 +215,13 @@ export const portfolioData = {
       solution: "High-end map animations, historical newspaper cutouts, and dramatic background score.",
       result: "Deep-dive documentary with high shareability.",
       description: "This documentary explores how Narendra Modi became the Chief Minister of Gujarat, the internal BJP power struggle between Atal Bihari Vajpayee and L.K. Advani, the impact of the 2002 Godhra train incident, and the political events that transformed Modi into one of the most influential politicians in India.",
-      thumbnail: "https://img.youtube.com/vi/llMg--bUseQ/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/llMg--bUseQ/hqdefault.jpg",
       videoUrl: "https://youtu.be/llMg--bUseQ?si=MpPV-fbKsn-pdLCH"
     },
     {
       id: "video-7",
       title: "Commercial Ad Showcase 01",
-      category: "Ad Editing & Commercial",
+      category: "Commercial Ad Video Editing",
       client: "Brand Campaign",
       duration: "3 Days",
       software: ["Premiere Pro", "After Effects"],
@@ -229,13 +229,13 @@ export const portfolioData = {
       solution: "Fast-paced visual edits, custom color grading, and call-to-action motion graphics.",
       result: "High CTR commercial advertisement.",
       description: "High-performance commercial advertisement video designed for digital campaigns and brand awareness.",
-      thumbnail: "https://img.youtube.com/vi/cY-io-PQJnw/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/cY-io-PQJnw/hqdefault.jpg",
       videoUrl: "https://youtu.be/cY-io-PQJnw"
     },
     {
       id: "video-8",
       title: "Commercial Ad Showcase 02",
-      category: "Promotional & Commercial Edit",
+      category: "Commercial Ad Video Editing",
       client: "Brand Campaign",
       duration: "3 Days",
       software: ["Premiere Pro", "After Effects"],
@@ -243,13 +243,13 @@ export const portfolioData = {
       solution: "Focused on 3-second hook optimization and polished product sound design.",
       result: "Optimized ad creative for digital marketing.",
       description: "High-converting promotional and commercial advertisement video.",
-      thumbnail: "https://img.youtube.com/vi/M2K_2NrTSOU/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/M2K_2NrTSOU/hqdefault.jpg",
       videoUrl: "https://youtu.be/M2K_2NrTSOU"
     },
     {
       id: "video-9",
       title: "Commercial Ad Showcase 03",
-      category: "Creative Brand Commercial",
+      category: "Commercial Ad Video Editing",
       client: "Brand Campaign",
       duration: "3 Days",
       software: ["Premiere Pro", "After Effects"],
@@ -257,7 +257,7 @@ export const portfolioData = {
       solution: "Sleek kinetic titles, custom color correction, and rhythmic audio cuts.",
       result: "Increased brand engagement.",
       description: "Creative brand commercial and promo video tailored for social platforms.",
-      thumbnail: "https://img.youtube.com/vi/zy3eDLkE2us/hqdefault.jpg",
+      thumbnail: "https://i.ytimg.com/vi/zy3eDLkE2us/hqdefault.jpg",
       videoUrl: "https://youtu.be/zy3eDLkE2us"
     }
   ],

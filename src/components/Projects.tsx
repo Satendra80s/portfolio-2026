@@ -130,10 +130,10 @@ export const Projects: React.FC<ProjectsProps> = ({ projects, onOpenAdmin }) => 
         const filterLower = filter.toLowerCase();
         
         if (filterLower === "video editing") {
-          return categoryLower.includes("video") || categoryLower.includes("ad") || categoryLower.includes("vfx");
+          return Boolean(p.videoUrl && p.videoUrl.trim() !== "") || categoryLower.includes("video") || categoryLower.includes("ad") || categoryLower.includes("vfx") || categoryLower.includes("story") || categoryLower.includes("podcast") || categoryLower.includes("documentary") || categoryLower.includes("shorts");
         }
         if (filterLower === "motion graphics") {
-          return categoryLower.includes("motion") || categoryLower.includes("explainer") || categoryLower.includes("typography");
+          return categoryLower.includes("motion") || categoryLower.includes("explainer") || categoryLower.includes("typography") || categoryLower.includes("shorts") || categoryLower.includes("reels");
         }
         if (filterLower === "graphic design") {
           return categoryLower.includes("graphic") || categoryLower.includes("concept") || categoryLower.includes("design");
